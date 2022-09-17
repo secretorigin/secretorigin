@@ -4,13 +4,11 @@
 <h4>:books: Stack</h4>
 
 - C/C++: [keyshadow](https://github.com/p2034/keyshadow) [SHA256](https://github.com/p2034/SHA256)
-- Golang: [votenote](https://github.com/votenote)
+- Golang: [votenote](https://github.com/votenote) [universal-password-based-authentication-server](https://github.com/p2034/universal-password-based-authentication-server)
 - Swift
 
 <h4>:construction: Currently working on</h4>
 
 - [votenote](https://github.com/votenote)
-- [keyshadow](https://github.com/p2034/keyshadow)
-- [universal-password-based-authentication-server](https://github.com/p2034/universal-password-based-authentication-server)
 
 [![codewars](https://www.codewars.com/users/the_lll_end/badges/large)](https://www.codewars.com/users/username)
