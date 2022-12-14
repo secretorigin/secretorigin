@@ -11,4 +11,4 @@
 
 - [votenote](https://github.com/votenote)
 
-[![codewars](https://www.codewars.com/users/the_lll_end/badges/large)](https://www.codewars.com/users/username)
+[![codewars](https://www.codewars.com/users/secretorigin/badges/large)](https://www.codewars.com/users/username)
