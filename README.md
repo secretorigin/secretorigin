@@ -4,7 +4,7 @@
 <h4>:books: Stack</h4>
 
 - C/C++: [keyshadow](https://github.com/p2034/keyshadow) [SHA256](https://github.com/p2034/SHA256)
-- Golang: [votenote](https://github.com/votenote) [universal-password-based-authentication-server](https://github.com/p2034/universal-password-based-authentication-server)
+- Golang: [votenote](https://github.com/votenote)
 - Swift
 
 <h4>:construction: Currently working on</h4>
