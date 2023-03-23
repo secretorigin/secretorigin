@@ -5,7 +5,6 @@
 
 - C/C++: [keyshadow](https://github.com/p2034/keyshadow) [SHA256](https://github.com/p2034/SHA256)
 - Golang: [votenote](https://github.com/votenote)
-- Swift
 
 <h4>:construction: Currently working on</h4>
 
