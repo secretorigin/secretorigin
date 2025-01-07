@@ -1,6 +1,6 @@
 <h3 align="center">Hi there 👋, I'm Danil</h3>
-<h4 align="center">Junior Backend Developer at Yandex Eats (foodtech)</h4>
-<h4 align="center">Ex. National Research Nuclear University MEPhI Student</h4>
+<h4 align="center">Middle Backend Developer at Yandex Eats (foodtech)</h4>
+<h4 align="center">National Research Nuclear University MEPhI Bachelor</h4>
 
 <h4>:books: Stack</h4>
 
@@ -9,10 +9,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-<h4>:construction: Currently working on</h4>
-
-- [votenote](https://github.com/votenote)
 
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/secretorigin)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danil-kandakov-398a10272/)
