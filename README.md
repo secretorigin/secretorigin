@@ -1,5 +1,5 @@
 <h3 align="center">Hi there 👋, I'm Danil</h3>
-<h4 align="center">Middle Backend Developer at Yandex Eats (foodtech)</h4>
+<h4 align="center">Backend Developer at Yandex Eats (foodtech)</h4>
 <h4 align="center">National Research Nuclear University MEPhI Bachelor</h4>
 
 <h4>:books: Stack</h4>
